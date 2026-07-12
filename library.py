@@ -14,7 +14,7 @@ Games['publisher'] = ["Hoyoverse", "Warner Bros", "Lucasfilm", "Ubisoft", "Blizz
 Games['genre'] = ['Fighting', 'Fantasy', 'Puzzle', "Meta", "Racing"]
 Games['year'] = ['2015', '2016', '2017', '2018', '2013', '2022', '2024']
 Games['price'] = ['1k', '1.5k', '2k', '3k', '4k', '5k']
-gspecs = ["name", 'publisher', 'genre', 'year', 'price']
+gspecs = [ 'publisher', 'genre', 'year', 'price']
 
 Books = {}
 Merchandise = {}
